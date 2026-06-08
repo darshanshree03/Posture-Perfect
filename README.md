@@ -100,8 +100,8 @@ Demo video available in the `/demo` folder of this repository.
 ## Team
 
 4-member project team:
-- **PCB Design** — Shree Dharshan S, [Teammate]
-- **Firmware & App** — [Teammate], [Teammate]
+- **PCB Design** — Shree Dharshan S, Harshinivarsa SK
+- **Firmware & App** — Abishek M, Harini C
 
 *Originally developed as a hackathon prototype. Currently being refined into a wearable product.*
 
