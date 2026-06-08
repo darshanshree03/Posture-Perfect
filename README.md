@@ -53,10 +53,10 @@ The hardware is split into two custom PCBs designed in KiCad:
 
 | Front | Back |
 |---|---|
-| ![Neckband PCB Front](hardware/Neckband_pcb3DFront.png) | ![Neckband PCB Back](hardware/Neckband_pcb3DBack.png) |
+| ![Neckband PCB Front](Hardware/Neckband_pcb3DFront.png) | ![Neckband PCB Back](Hardware/Neckband_pcb3DBack.png) |
 
 #### Earbud PCB — 3D View
-![Earbud PCB](hardware/earbud_pcb3D.png)
+![Earbud PCB](Hardware/earbud_pcb3D.png)
 
 > ⚠️ PCB routing is currently in progress (94 unrouted connections on the neckband board). Gerber files will be updated once routing is complete.
 
